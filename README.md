@@ -27,7 +27,7 @@ Atualmente construindo meu portfólio de análises independentes, com foco em:
 ## 🗂️ Projetos em Destaque
 
 ### 📈 [Samkz — SoloQueue Analysis Dashboard](https://github.com/monteirocarloshenrique53-byte/samkz-soloqueue-dashboard)
-> Análise de desempenho em SoloQueue do Caçador da PaiN Gaming. Dashboard interativo com Plotly.js, filtros dinâmicos e análise de pool de campeões.
+> Análise de desempenho em SoloQueue do caçador da PaiN Gaming. Dashboard interativo com Plotly.js, filtros dinâmicos e análise de pool de campeões.
 
 `HTML` `Plotly.js` `JavaScript` `SoloQueue` `PaiN Gaming`
 
