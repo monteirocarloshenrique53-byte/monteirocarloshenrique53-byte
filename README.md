@@ -1,4 +1,4 @@
-[README_perfil_github.md](https://github.com/user-attachments/files/27785850/README_perfil_github.md)
+[README_perfil_github.md](https://github.com/user-attachments/files/27785988/README_perfil_github.md)
 <div align="center">
 
 # 👋 Olá, eu sou o Carlos Henrique
@@ -26,7 +26,7 @@ Atualmente construindo meu portfólio de análises independentes, com foco em:
 
 ## 🗂️ Projetos em Destaque
 
-### 🇧🇷 [Seleção Brasileira — ENC 2026](https://github.com/monteirocarloshenrique53-byte/selecao-brasileira-enc2026)
+### 🇧🇷 [Seleção Brasileira — ENC 2026](https://github.com/monteirocarloshenrique53-byte/selecao-brasileira-league-of-legends)
 > Site editorial premium sobre os 6 representantes do Brasil na Esports Nations Cup 2026. Perfis completos com stats por torneio, radar de atributos, timeline histórica e destaques interativos. Dados de Copa CBLOL, CBLOL Split 1, Americas Cup e First Stand.
 
 `HTML` `CSS` `JavaScript` `Chart.js` `ENC 2026` `CBLOL` `FURIA` `LOUD` `RED Canids`
